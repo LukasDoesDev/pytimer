@@ -1,0 +1,25 @@
+window {
+  background-color: #0f0f0f;
+  color: #ffffff;
+}
+
+#timer-label-left, #timer-label-right {
+  font-family: monospace;
+}
+
+#timer-label-left {
+  font-size: 75px;
+}
+
+#timer-label-right {
+  font-size: 50px;
+}
+
+.timer_on #timer-label-left,
+.timer_on #timer-label-right {
+  color: rgb(9, 161, 9);
+}
+
+#title-label {
+  font-size: 25px;
+}
