@@ -1,3 +1,5 @@
+# Moved to [GitLab](https://gitlab.com/LukasDoesDev/pytimer)
+
 # PyTimer
 
 Speedrun timer for Linux
